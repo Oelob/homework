@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Master\GB\c#_homework\hwOOP\bin\Debug\net6.0\hwOOP.exe
+C:\Users\1\Desktop\Master\GB\c#_homework\hwOOP\bin\Debug\net6.0\hwOOP.deps.json
+C:\Users\1\Desktop\Master\GB\c#_homework\hwOOP\bin\Debug\net6.0\hwOOP.runtimeconfig.json
+C:\Users\1\Desktop\Master\GB\c#_homework\hwOOP\bin\Debug\net6.0\hwOOP.dll
+C:\Users\1\Desktop\Master\GB\c#_homework\hwOOP\bin\Debug\net6.0\hwOOP.pdb
+C:\Users\1\Desktop\Master\GB\c#_homework\hwOOP\obj\Debug\net6.0\hwOOP.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Master\GB\c#_homework\hwOOP\obj\Debug\net6.0\hwOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Master\GB\c#_homework\hwOOP\obj\Debug\net6.0\hwOOP.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Master\GB\c#_homework\hwOOP\obj\Debug\net6.0\hwOOP.AssemblyInfo.cs
+C:\Users\1\Desktop\Master\GB\c#_homework\hwOOP\obj\Debug\net6.0\hwOOP.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Master\GB\c#_homework\hwOOP\obj\Debug\net6.0\hwOOP.dll
+C:\Users\1\Desktop\Master\GB\c#_homework\hwOOP\obj\Debug\net6.0\refint\hwOOP.dll
+C:\Users\1\Desktop\Master\GB\c#_homework\hwOOP\obj\Debug\net6.0\hwOOP.pdb
+C:\Users\1\Desktop\Master\GB\c#_homework\hwOOP\obj\Debug\net6.0\hwOOP.genruntimeconfig.cache
+C:\Users\1\Desktop\Master\GB\c#_homework\hwOOP\obj\Debug\net6.0\ref\hwOOP.dll
